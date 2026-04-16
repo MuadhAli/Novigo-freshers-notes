@@ -1,0 +1,4 @@
+# Environment files
+ai-mentorship/.env
+uv-demo/.env
+.venv

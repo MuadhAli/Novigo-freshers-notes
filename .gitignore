@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-.env
-.env.*
-=======
 # Environment files
 ai-mentorship/.env
 uv-demo/.env
 .venv
 ai-mentorship/day2.ipynb
->>>>>>> 1bb78c36574eb35d222ce37e31cc127afcf0f0ba
+myenv_langgraph
+.env
